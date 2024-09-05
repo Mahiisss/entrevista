@@ -1,0 +1,1 @@
+export const API_URL = "https://entrevista.sh4dy.com"

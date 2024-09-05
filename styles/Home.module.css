@@ -1,0 +1,26 @@
+.textfieldStyle{
+  display: block;
+  margin-top: 8px;
+}
+
+.dblock{
+  display: block;
+  margin: auto;
+  width: fit-content;
+  margin-top: 28vh;
+  background-color: rgb(228, 236, 242);
+  padding: 10px;
+  border-radius: 10px;
+  padding-bottom: 15px;
+}
+
+.buttonStyle{
+  width: 100%;
+  margin-top: 8px;
+}
+
+.pStyle{
+  color: blue;
+  font-size: 20px;
+}
+
